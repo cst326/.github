@@ -1,12 +1,26 @@
-# Scooter Scout
+# Scooter Scout Team Charter
 
-## Team Members
-- Kyle L
-- Jason P
-- Owen M
+## Team Members & Responsibilities
+| Team Member | Responsibility |
+| ----------- | -------------- |
+| Kyle L      | Project Owner  |
+| Jason P     | Scrum Master   |
+| Owen M      | Developer      |
+|             | Developer      |
 
-## Functional overview
-A web-based database that allows users to register, view, and track their scooter/wheels.
+## Plans for Team Coordination
+- We will utilize Discord for communication
 
-## Technical overview
-SpringBoot REST API backend with React frontend hosted on the Heroku cloud platform.
+## Full description of Software
+
+## Scope, Time, & Constraints
+
+### In-scope
+
+### Out of scope
+
+### Time
+
+### Constraints
+
+## Customer Description
