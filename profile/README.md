@@ -9,7 +9,9 @@
 | Hudson H    | Developer      |
 
 ## Plans for Team Coordination
-- We will utilize Discord for communication
+- We will utilize Discord for general communication
+- We will use Jira and Confluence for planning/team management
+- We will use a git repo hosted on GitHub for shared code/collaboration
 
 ## Full description of Software
 
