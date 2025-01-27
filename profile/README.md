@@ -6,7 +6,7 @@
 | Kyle L      | Project Owner  |
 | Jason P     | Scrum Master   |
 | Owen M      | Developer      |
-|             | Developer      |
+| Hudson H    | Developer      |
 
 ## Plans for Team Coordination
 - We will utilize Discord for communication
